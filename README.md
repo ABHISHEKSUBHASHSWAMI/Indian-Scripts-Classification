@@ -8,7 +8,7 @@ This repository contains the code and resources for a deep learning project focu
 ## Project Structure
 
 - dataset
-  -train
+  - train
     - Devanagari
       - image1.jpg
       - image2.jpg
@@ -29,6 +29,8 @@ This repository contains the code and resources for a deep learning project focu
 1. Clone the repository: `git clone https://github.com/ABHISHEKSUBHASHSWAMI/Indian-Scripts-Classification.git`
 2. Set up a Python environment (preferably a virtual environment).
 
+## Dataset
+[Download](https://www.kaggle.com/datasets/abhisheksubhashswami/indian-scripts)
 ## Contributors
 [S ABHISHEK](https://github.com/ABHISHEKSUBHASHSWAMI)
 
